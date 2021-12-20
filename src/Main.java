@@ -12,6 +12,6 @@ public class Main {
         System.out.println("push git");
         System.out.println("push git");
         System.out.println("push git");
-
+        System.out.println("ssh push");
     }
 }
