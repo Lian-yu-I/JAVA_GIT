@@ -11,6 +11,7 @@ public class Main {
         System.out.println("hello git5");
         System.out.println("push git");
         System.out.println("push git");
+        System.out.println("push git");
 
     }
 }
